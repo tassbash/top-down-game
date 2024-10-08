@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8897544613618309490}
   m_Layer: 0
   m_Name: PLayer
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -100,6 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.01
+  hasKey: 0
   upSprite: {fileID: 21300000, guid: 698b276b3de51a549916624961c4e26d, type: 3}
   leftSprite: {fileID: 21300000, guid: 99b06a372889fcf4a833b20da16dbba8, type: 3}
   rightSprite: {fileID: 21300000, guid: 781e08eaec91d8447879b485bd018e14, type: 3}
